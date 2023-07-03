@@ -1,0 +1,1 @@
+iverilog ha.v fa.v add6.v cla4.v add8.v  addsub8.v and12_1.v and41.v and71.v and81.v mux_8_8x1.v barrel.v cla16_high.v comp8.v decoder_3X8.v sub_4.v sub_6.v mux_8_2x1.v mux_4_2x1.v mux_7_2x1.v floatadd.v reducer_16.v ppi.v multi_u.v floatmul.v multi_s.v ALU.v d_ff.v register.v mux_12_8x1.v mux_12_2x1.v registerfile.v testbench.v ; vvp a.out ; gtkwave test.vcd
